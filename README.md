@@ -1,6 +1,11 @@
 ### bem-vindo 😄
 
-Meu nome é gustavo
-- estou estudando, e ano que vem irei cusrsar humanas pelo recurso da escola e pelo de ser matutino 
--tenho 14 anos
--estou no ensino mé
+-Meu nome é gustavo.
+-Estou estudando no periodo vespertino.
+-tenho 14 anos.
+-estou no ensino médio.
+-gosto de esportes, mas por enquanto nao faço nenhum.
+-faço curso de informatica.
+caso queira entrar em contato comigo;
+
+gustavo.lazaro.santos@escola.pr.gov.br
